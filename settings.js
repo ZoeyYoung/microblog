@@ -1,5 +1,6 @@
 module.exports = {
     cookieSecret: 'microblogyuanzm',
     db: 'blog',
-    host: 'localhost'
+    host: 'localhost',
+    port: '27017'
 };
